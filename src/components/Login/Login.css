@@ -26,13 +26,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 477px;
+    width: 438px;
     height: 488px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     border-radius: 8px;
     opacity: 1;
-    margin-top: 190px;
-    margin-left: 1210px;
+    margin-top: 200px;
+    margin-left: 900px;
 }
 
 h5 {
