@@ -1,0 +1,25 @@
+.cancel-btn{
+    position: relative;
+    left: 500px;
+    bottom: 20px;
+    padding: 10px;
+    width: 125px;
+}
+
+.proceed-btn{
+    padding: 10px;
+    position: relative;
+    left: 25px;
+    width: 100px;
+}
+
+.edit1-title1{
+    position: relative;
+    top: 20px;
+}
+
+.edit2-title2{
+    position: relative;
+    top: 16px;
+}
+

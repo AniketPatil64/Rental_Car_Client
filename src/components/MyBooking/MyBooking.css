@@ -1,0 +1,140 @@
+.my-box{
+    max-width: 1300px;
+    height: 700px;
+    margin-left: 200px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 5px  rgba(0, 0, 0, 0.5);
+    margin-top: 70px;
+}
+
+.div-1{
+    max-width: 1250px;
+    height: 180px;
+    border: 1px solid black;
+    margin-top: 30px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.one-div{
+    max-width: 200px;
+    height: 180px;
+    border: 1px solid gray;
+
+}
+
+.one-div img{
+    width: 200px;
+    height: 160px;
+
+
+}
+
+.two-div{
+    min-width: 250px;
+    height: 180px;
+    border: 1px solid gray;
+    padding: 0px 5px;
+    /* overflow-y: hidden; */
+    
+}
+
+.three-div{
+    min-width: 400px;
+    height: 180px;
+    border: 1px solid gray;
+    /* padding: 5px 5px; */
+    
+
+}
+
+.mini-3rd-div{
+    display: flex;
+    gap: 20px;
+    padding: 5px 5px;
+    
+
+}
+.mini-3rd-div-img img{
+    width: 150px;
+    height: 100px;
+   
+}
+
+.four-div{
+    min-width: 250px;
+    height: 180px;
+    border: 1px solid gray;
+    
+}
+.mini-four-div{
+    /* width: 150px; */
+    display: flex;
+    gap: 30px;
+    padding: 5px 5px;
+
+}
+
+.five-div{
+    min-width: 70px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    /* padding: 5px 5px; */
+    position: absolute;
+   left: 1190px;
+   
+}
+.edit-btn{
+    position: relative;
+    top: 100px;
+    left: 25px;
+    padding: 10px;
+    width: 125px;
+    cursor: pointer;
+
+}
+
+.canceled-btn{
+    position: relative;
+    top: 130px;
+    left: 25px;
+    cursor: pointer;
+    height: 45px;
+}
+
+
+
+.div-2{
+    max-width: 1250px;
+    height: 180px;
+    border: 1px solid black;
+    margin-top: 30px;
+    display: flex;
+
+    
+}
+
+.div-3{
+    max-width: 1250px;
+    height: 180px;
+    border: 1px solid black;
+    margin-top: 30px;
+    display: flex;
+}
+
+h5{
+    position: relative;
+    bottom: 70px;
+}
+
+.cardetails{
+    position: relative;
+    bottom: 80px;
+}
+
+.five-div{
+    position: relative;
+    bottom: 85px;
+    left: -15px;
+}

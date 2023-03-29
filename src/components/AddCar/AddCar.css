@@ -1,0 +1,146 @@
+.container{
+    height: 900px;
+}
+.Left-Box{
+    width: 50%;
+    padding:  3rem;
+    margin-top: 1.5rem;
+}
+.Right-Box{
+    width: 70%;
+    padding: 3rem;
+    margin-top: 1.5rem;
+}
+.boxes{
+    display: flex;
+}
+.Left-Box {
+    width: 60%;
+    padding: 0rem;
+    margin-top: 1.5rem;
+}
+.boxes > lable {
+ text-align: left;
+font: normal normal normal 24px/33px Open Sans;
+letter-spacing: 0.24px;
+color: #2D2D2E;
+opacity: 1;
+}
+.boxes > input [name="carname"] {
+width: 600px;
+height: 25px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #CCCCCC;
+border-radius: 4px;
+opacity: 1;
+}
+.Right-Box > .image{
+    height: 10rem;
+}
+.btn-upload>button{
+    margin-top: 0px;
+}
+
+.Right-Box > .cardetails >input {
+    width: 400px;
+    height: 4rem;
+}
+.Right-Box > .details >input{
+     width: 400px;
+     height: 4rem;
+}
+.flex{
+    display: flex;
+}
+.flex-dir-c{
+    flex-direction: column;
+}
+.flex-dir-r{
+    flex-direction: row;
+}
+.j-content{
+    justify-content: space-between;
+}
+.inp-carname{
+    width: 800px;
+    height: 50px;
+}
+.m-t{
+    margin-top: 1rem;
+}
+.m-b{
+    margin-bottom: 1rem;
+}
+.m-r{
+    margin-right: 5rem;
+}
+.m-l{
+    margin-left: 5rem;
+}
+.m-r2{
+    margin-right:2.5rem ;
+}
+.m-l2{
+    margin-right:10rem ;
+}
+input{
+    border: 1px solid #CCCCCC;
+    border-radius: 0.5rem;
+    
+}
+
+.description > input {
+    height: 8rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.Right-Box > .image > input{
+    border: 1px solid #CCCCCC;
+    border-radius: 0.5rem;
+}
+
+
+.Right-Box > .details >input {
+    width: 400px;
+    height: 4rem;
+}
+.btn-add,.btn-cancel{
+    padding: 0.7rem 1.5rem;
+}
+.select-img{
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    top: 170px;
+    right: 600px;
+    
+}
+
+.btn-add1 {
+    position: absolute;
+    top: 200px;
+    right: 365px;
+
+}
+
+.inp-img {
+    
+    /* padding-left: 30px;
+    height: 40px;
+    width: 370px; */
+   padding-bottom: 33px;
+}
+
+.add-button{
+    background-color: white;
+    color: black;
+}
+
+.click{
+   padding: 5px 5px;
+   background-color: #ccc;
+}
+
+.click:hover{
+    cursor: pointer;
+    background-color: rgb(34, 173, 228);
+}
